@@ -1,0 +1,5 @@
+{
+  "name": "HumanAuth - Certified Human Writer",
+  "description": "A writing environment that certifies human authorship by tracking biometric typing patterns, keystrokes, and editing history to generate a verifiable 'Certified Human' badge.",
+  "requestFramePermissions": []
+}
